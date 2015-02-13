@@ -140,6 +140,7 @@ footer{
 }
 
 .paging-button{
+	margin: 10px;
 	background: #ccc;
 	padding: 8px 13px;
 	border: #ccc 1px solid;
